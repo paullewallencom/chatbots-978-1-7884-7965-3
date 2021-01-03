@@ -1,0 +1,15 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger Chatbot starter template that uses Wit.AI",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sachin Bhatnagar <mailme@sachinbhatnagar.com> (http://sachinbhatnagar.com)",
+  "license": "ISC",
+  "dependencies": {
+    "node-wit": "4.0.0",
+    "request": "2.74.0",
+    "restify": "4.1.1"
+  }
+}

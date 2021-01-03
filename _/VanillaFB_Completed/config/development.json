@@ -1,0 +1,7 @@
+{
+  "fb": {
+    "pageAccessToken": "page_access_token",
+    "verifyToken": "verify_token",
+    "appSecret": "app_secret"
+  }
+}

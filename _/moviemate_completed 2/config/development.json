@@ -1,0 +1,9 @@
+{
+	"WIT_ACCESS_TOKEN": "wit-token",
+	"FB": {
+		"PAGE_ACCESS_TOKEN": "page-access-token",
+		"VERIFY_TOKEN": "verify-token",
+		"APP_SECRET": "app-secret"
+	},
+	"OMDB_API_KEY": "omdb-api-key"
+}

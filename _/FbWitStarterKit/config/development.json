@@ -1,0 +1,8 @@
+{
+	"WIT_ACCESS_TOKEN": "your-wit-access-token",
+	"FB": {
+		"PAGE_ACCESS_TOKEN": "facebook-page-access-token",
+		"VERIFY_TOKEN": "facebook-verify-token",
+		"APP_SECRET": "facebook-app-secret"
+	}
+}
